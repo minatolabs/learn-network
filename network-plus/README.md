@@ -83,4 +83,26 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
+## 🎓 Credits & Source Material
+
+The educational content within this application is based on the **CompTIA Network+ (N10-009)** curriculum.
+
+*   **Primary Source:** [Dion Training - CompTIA Network+ (N10-009) Complete Course](https://www.udemy.com/course/comptia-network-009/?couponCode=CP251129CMG1)
+*   **Recommendation:** We highly encourage students to check out the full course by Dion Training on Udemy for in-depth learning, video lectures, and practice exams.
+
+## ⚠️ Disclaimer
+
+**This is NOT a complete course.**
+
+This application is designed as a **supplementary learning tool**—think of it like interactive flashcards or a quick reference guide. It is intended to give beginners a "push" to start their learning journey and to help reinforce key concepts.
+
+*   There is a lot more to learn than what is covered here.
+*   We recommend using this app alongside a full video course (like the one linked above) and the official CompTIA study materials.
+
+## 🤖 Powered By
+
+This project was coded with AI assistance using **Antigravity by Google**.
+
+---
+
 **Happy Studying!** 🚀

@@ -39,6 +39,10 @@ npm run dev
 
 We welcome contributions to any of the apps in this repository! Please check the specific app's directory for more details on how to contribute.
 
+## 🤖 Powered By
+
+This project was coded with AI assistance using **Antigravity by Google**.
+
 ## 📝 License
 
 This repository and all its contents are distributed under the MIT License.
